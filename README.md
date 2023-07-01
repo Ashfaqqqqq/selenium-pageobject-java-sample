@@ -5,7 +5,7 @@ As a base, it has implementation of different profiles and including RemoteWebDr
 Screenshot implementation and more.
 
 ##Reporting
-As reporting project uses Allure.
+As reporting project uses Allure..
 
 **In order to run the project simple execute**
 `mvn test`
